@@ -1,10 +1,10 @@
-# Timemory Organiser
+# Timemo Organiser
 
 A Java-based task organizer application that uses the forgetting curve algorithm to help users manage their tasks and improve memory retention through spaced repetition.
 
 ## Overview
 
-Timemory Organiser is a desktop application designed to help users organize their tasks while leveraging the forgetting curve theory to optimize learning and memory retention. The application combines task management with a scientific approach to scheduling reviews and reminders.
+Timemo Organiser is a desktop application designed to help users organize their tasks while leveraging the forgetting curve theory to optimize learning and memory retention. The application combines task management with a scientific approach to scheduling reviews and reminders.
 
 ## Features
 
